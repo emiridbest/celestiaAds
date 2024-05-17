@@ -1,10 +1,10 @@
 
 
-# AreonAds: Transforming Digital Advertising with NFTs
+# Celestia Ads: Transforming Digital Advertising with NFTs
 
 ## Introduction
 
-- Welcome to AreonAds, a groundbreaking project that leverages blockchain and NFT technology to revolutionize digital advertising.
+- Welcome to Celestia Ads, a groundbreaking project that leverages blockchain and NFT technology to revolutionize digital advertising.
 - We present an innovative approach that benefits advertisers, content creators, and consumers.
 
 ## Problem Statement
@@ -42,7 +42,7 @@
 - Advanced Analytics: Providing detailed insights to advertisers for better targeting.
 - Partnerships: Collaborating with other projects to enhance the ecosystem.
 
-## Why AreonAds?
+## Why Celestia Ads?
 
 - Innovative Concept: NFT-based ads offer a new dimension to digital advertising.
 - Community-Centric: Empowering users and referrers with token rewards.
@@ -50,7 +50,7 @@
 
 ## Conclusion
 
-AreonAds is not just about ads; it's about transforming the advertising landscape. Join us on this journey towards a decentralized, transparent, and rewarding advertising ecosystem.
+Celestia Ads is not just about ads; it's about transforming the advertising landscape. Join us on this journey towards a decentralized, transparent, and rewarding advertising ecosystem.
 
 
 # celestiaAds
